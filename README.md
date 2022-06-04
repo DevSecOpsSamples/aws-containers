@@ -2,7 +2,7 @@
 
 ## Objective
 
-* Compare AWS container services with simplest way.
+* Compare AWS container services with the simplest way.
 * The contents will help you to choose the right service for your environment.
 
 ## Sample code repositry
