@@ -1,6 +1,6 @@
 # AWS container sample project for EKS, ECS, and App Runner
 
-## Objectives
+## Objective
 
 * Compare the differences among AWS container services with the sample code from infrastructure provisioning and deployment.
 * The contents will help you to choose the right service for your environment.
