@@ -1,4 +1,4 @@
-# AWS container sample project for EKS, ECS, and App Runner
+# AWS container sample projects for EKS, ECS, and App Runner
 
 ## Objective
 
