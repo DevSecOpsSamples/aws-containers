@@ -22,7 +22,7 @@
 |-------------------------------|-------------------|----------------------|
 | [cdk-ecs-fargate](https://github.com/engel80/cdk-ecs-fargate)  | 8m | RESTful API autoscaling with ECS Fargate. |
 | [cdk-ecs-ec2](https://github.com/engel80/cdk-ecs-ec2)  | 15m | RESTful API autoscaling with ECS EC2. |
-| [dk-ecs-gpu-ec2](https://github.com/engel80/cdk-ecs-gpu-ec2)  | 20m | Inference RESTful API autoscaling with ECS EC2. |
+| [cdk-ecs-gpu-ec2](https://github.com/engel80/cdk-ecs-gpu-ec2)  | 20m | Inference RESTful API autoscaling with ECS EC2. |
 
 
 ### App Runner
