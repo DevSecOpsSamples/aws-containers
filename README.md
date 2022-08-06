@@ -39,7 +39,3 @@
 | [sonarqube-fargate-cdk](https://github.com/engel80/sonarqube-fargate-cdk)  | 12m | Build a continuous inspection system for code quality on Fargate with SonarQube and CDK. |
 | [jenkins-fargate-cdk](https://github.com/engel80/jenkins-fargate-cdk)  | TBD | Build a Jenkins on Fargate with CDK. |
 
-## Others
-
-| Repository                    | Time To Complete  | Description          |
-|-------------------------------|-------------------|----------------------|
