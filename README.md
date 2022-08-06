@@ -15,6 +15,8 @@
 | [cdk-eks](https://github.com/engel80/cdk-eks)                            | 30m | EKS cluster and managed node group with CDK.        |
 | [eks-eksctl](https://github.com/engel80/eks-eksctl)                      | 30m | EKS cluster and managed node group with eksctl.     |
 | [eks-terraform](https://github.com/engel80/eks-terraform)                | 30m | EKS cluster and managed node group with Terraform.  |
+| [eks-gpu-autoscaling](https://github.com/engel80/eks-gpu-autoscaling)    | 1h+ | GPU auto scaling based on Prometheus custom metric. |
+| [eks-gpu-cloudwatch](https://github.com/engel80/eks-gpu-cloudwatch)      | TBD | GPU metric CloudWatch exporter.                      |
 
 ### ECS
 
@@ -22,6 +24,7 @@
 |----------------------------------------------------------------|-------------------|----------------------|
 | [cdk-ecs-fargate](https://github.com/engel80/cdk-ecs-fargate)  | 8m  | RESTful API autoscaling with ECS Fargate and CDK. |
 | [cdk-ecs-ec2](https://github.com/engel80/cdk-ecs-ec2)          | 15m | RESTful API autoscaling with ECS EC2 and CDK.     |
+| [cdk-ecs-gpu](https://github.com/engel80/cdk-ecs-gpu)          | 20m | Inference RESTful API autoscaling with ECS GPU EC2 and CDK.   |
 
 ### App Runner
 
@@ -36,10 +39,7 @@
 | [sonarqube-fargate-cdk](https://github.com/engel80/sonarqube-fargate-cdk)  | 12m | Build a continuous inspection system for code quality on Fargate with SonarQube and CDK. |
 | [jenkins-fargate-cdk](https://github.com/engel80/jenkins-fargate-cdk)  | TBD | Build a Jenkins on Fargate with CDK. |
 
-## GPU
+## Others
 
 | Repository                    | Time To Complete  | Description          |
 |-------------------------------|-------------------|----------------------|
-| [eks-gpu-autoscaling](https://github.com/engel80/eks-gpu-autoscaling)    | 1h+ | GPU auto scaling based on Prometheus custom metric. |
-| [eks-gpu-cloudwatch](https://github.com/engel80/eks-gpu-cloudwatch)      | TBD | GPU metric CloudWatch exporter.                      |
-| [cdk-ecs-gpu](https://github.com/engel80/cdk-ecs-gpu)          | 20m | Inference RESTful API autoscaling with ECS GPU EC2 and CDK.   |
