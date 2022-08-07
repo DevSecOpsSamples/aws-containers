@@ -38,5 +38,9 @@
 |-------------------------------|-------------------|----------------------|---------------------|
 | [jenkins-fargate-cdk](https://github.com/engel80/jenkins-fargate-cdk)  | 7m | Build a Jenkins on Fargate with CDK. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=engel80_jenkins-fargate-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=engel80_jenkins-fargate-cdk) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=engel80_jenkins-fargate-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=engel80_jenkins-fargate-cdk) |
 | [sonarqube-fargate-cdk](https://github.com/engel80/sonarqube-fargate-cdk)  | 12m | Build a continuous inspection system for code quality on Fargate with SonarQube and CDK. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=engel80_sonarqube-fargate-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=engel80_sonarqube-fargate-cdk) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=engel80_sonarqube-fargate-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=engel80_sonarqube-fargate-cdk) |
-| [jenkins-sonarqube-fargate-cdk](https://github.com/engel80/jenkins-sonarqube-fargate-cdk)  | TBD | Build Jenkins and Sonarqube on Fargate with CDK. | |
+| [jenkins-sonarqube-fargate-cdk](https://github.com/engel80/jenkins-sonarqube-fargate-cdk)  | TBD | Build Jenkins and Sonarqube on Fargate with CDK. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=engel80_jenkins-sonarqube-fargate-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=engel80_jenkins-sonarqube-fargate-cdk) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=engel80_jenkins-sonarqube-fargate-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=engel80_jenkins-sonarqube-fargate-cdk) |
 
+
+<img src="https://github.com/engel80/cdk-eks-blueprints/blob/develop/screenshots/diagram.png?raw=true">
+
+<img src="https://github.com/engel80/cdk-ecs-fargate/blob/develop/screenshots/fargate-architecture.png?raw=true" >
