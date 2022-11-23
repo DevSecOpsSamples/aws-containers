@@ -50,6 +50,10 @@
 
     <img src="https://github.com/ContainerOnAWS/ecs-fargate-cdk/blob/develop/screenshots/fargate-architecture.png?raw=true"/>
 
+- Jenkins on Fargate
+
+    <img src="https://raw.githubusercontent.com/DevSecOpsSamples/jenkins-fargate-cdk/master/screenshots/jenkins-arch.png"/>
+
 - Sonarqube on Fargate
 
     <img src="https://raw.githubusercontent.com/DevSecOpsSamples/sonarqube-fargate-cdk/master/screenshots/sonar-arch.png"/>
