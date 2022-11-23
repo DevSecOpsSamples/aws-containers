@@ -4,6 +4,7 @@
 
 | Repository                                                               | Time  | Description          |  SonarQube  |
 |--------------------------------------------------------------------------|------------------|----------------------|----------------------|
+| [eks-python-api](https://github.com/DevSecOpsSamples/eks-python-api)      | 30m | Python RESTful API on EKS. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DevSecOpsSamples_eks-python-api&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DevSecOpsSamples_eks-python-api) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=DevSecOpsSamples_eks-python-api&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=DevSecOpsSamples_eks-python-api) |
 | [eks-cdk-blueprints](https://github.com/ContainerOnAWS/eks-cdk-blueprints)      | 30m | EKS cluster, managed node group, and add-on with EKS Blueprints. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_eks-cdk-blueprints&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_eks-cdk-blueprints) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_eks-cdk-blueprints&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_eks-cdk-blueprints) |
 | [eks-cdk](https://github.com/ContainerOnAWS/eks-cdk)                            | 30m | EKS cluster and managed node group with CDK.        | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_eks-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_eks-cdk)  [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_eks-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_eks-cdk)    |
 | [eks-eksctl](https://github.com/ContainerOnAWS/eks-eksctl)                      | 30m | EKS cluster and managed node group with eksctl.     |  [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_eks-eksctl&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_eks-eksctl) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_eks-eksctl&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_eks-eksctl)  |
@@ -32,14 +33,17 @@
 |-------------------------------|-------------------|----------------------|---------------------|
 | [lambda-container-cdk](https://github.com/ContainerOnAWS/lambda-container-cdk)  | 5m  | Lambda with Container  | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_lambda-container-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_lambda-container-cdk) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=ContainerOnAWS_lambda-container-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=ContainerOnAWS_lambda-container-cdk) |
 
+### Jenkins
+
+| Repository                    | Time  | Description          |  SonarQube  |
+|-------------------------------|-------------------|----------------------|---------------------|
+| [jenkins-pipeline](https://github.com/DevSecOpsSamples/jenkins-pipeline)  | TBD | Build Jenkins Pipelines for container | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DevSecOpsSamples_jenkins-pipeline&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DevSecOpsSamples_jenkins-pipeline) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=DevSecOpsSamples_jenkins-pipeline&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=DevSecOpsSamples_jenkins-pipeline) |
+
 ### TBD
 
 | Repository                    | Time  | Description          |  SonarQube  |
 |-------------------------------|-------------------|----------------------|---------------------|
 | [jenkins-sonarqube-fargate-cdk](https://github.com/DevSecOpsSamples/jenkins-sonarqube-fargate-cdk)  | TBD | Build Jenkins and Sonarqube on Fargate with CDK. | [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=DevSecOpsSamples_jenkins-sonarqube-fargate-cdk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=DevSecOpsSamples_jenkins-sonarqube-fargate-cdk) [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=DevSecOpsSamples_jenkins-sonarqube-fargate-cdk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=DevSecOpsSamples_jenkins-sonarqube-fargate-cdk) |
-| [jenkins-pipeline](https://github.com/DevSecOpsSamples/jenkins-pipeline)  | TBD | Build Jenkins Pipelines for container | |
-
-
 ## Architecture
 
 - EKS blueprints
