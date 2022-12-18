@@ -69,3 +69,7 @@
 - Sonarqube on Fargate
 
     <img src="https://raw.githubusercontent.com/DevSecOpsSamples/sonarqube-fargate-cdk/master/screenshots/sonar-arch.png"/>
+
+- Athena, SQS, API Gateway
+
+    <img src="https://raw.githubusercontent.com/DevSecOpsSamples/athena-sqs-apigw/develop/screenshots/architecture.png"/>
